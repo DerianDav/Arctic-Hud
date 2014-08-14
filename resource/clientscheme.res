@@ -2551,6 +2551,7 @@ Scheme
 			{
 				"name"		"Expansiva-BoldItalic"
 				"tall"		"12"
+				"weight"	"2500"
 				"antialias" "1"
 			}
 		}
@@ -2583,6 +2584,29 @@ Scheme
 			{
 				"name"		"Expansiva-BoldItalic"
 				"tall"		"32"
+				"weight"	"2500"
+				"antialias" "1"
+			}
+		}
+		
+		ExpansivaBoldItalic42
+		{
+			"1"
+			{
+				"name"		"Expansiva-BoldItalic"
+				"tall"		"42"
+				"weight"	"2500"
+				"antialias" "1"
+			}
+		}
+		
+		ExpansivaBoldItalic48
+		{
+			"1"
+			{
+				"name"		"Expansiva-BoldItalic"
+				"tall"		"48"
+				"weight"	"2500"
 				"antialias" "1"
 			}
 		}
