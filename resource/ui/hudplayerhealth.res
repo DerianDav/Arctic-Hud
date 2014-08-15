@@ -84,21 +84,7 @@
 		"font"			"ExpansivaBoldItalic12"
 		"fgcolor"		"Blue_ArcticHud"
 	}								
-	"PlayerStatusBleedImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusBleedImage"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"7"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"1"	
-		"image"			"../vgui/bleed_drop"
-		"fgcolor"		"TanDark"
-	}		
+	
 	"PlayerStatusMilkImage"
 	{
 		"ControlName"	"ImagePanel"

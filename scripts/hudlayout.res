@@ -72,7 +72,7 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c60"	[$WIN32]
+		"xpos"			"cR0"	[$WIN32]
 		"ypos"			"c90"	[$WIN32]
 		"ypos_minmode"	"r34"	[$WIN32]
 		"xpos"			"r174"	[$X360]
@@ -284,25 +284,18 @@
 		"y_offset" "20"
 	}
 	
-	CSecondaryTargetID
+		CSecondaryTargetID
 	{
-		"fieldName" 	"CSecondaryTargetID"
+		"fieldName" "CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"300"
-		"wide"	 	"252"
-		"tall"	 	"35"
-		"tall_minmode"	 	"28"
-		"priority"	"35"
-
-		if_vr
-		{
-			"ypos"		"330"
-			"x_offset"	"20"
-		}
-
-	}
+		"xpos" 		"c-100"
+		"ypos" 		"c65"
+		"zpos"		"1"
+		"wide" 		"600"
+		"tall" 		"45"
+		"priority" 	"35"
+}
 	
 	BuildingStatus_Spy
 	{

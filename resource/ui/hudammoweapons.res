@@ -88,8 +88,8 @@
 		"fieldName"		"AmmoInReserve"
 		"font"			"ExpansivaBoldItalic16"
 		"font_lodef"	"HudFontMedium"
-		"font_minmode"	"HudFontSmall"
-		"fgcolor"		"White"
+	
+		"fgcolor"		"LightBlue_ArcticHud"
 		"xpos"			"59"
 		"xpos_minmode"	"65"
 		"ypos"			"8"

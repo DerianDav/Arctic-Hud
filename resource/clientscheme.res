@@ -40,6 +40,7 @@ Scheme
 		"LightBlue_ArcticHud"		"124 188 225 255"
 		"Blue_ArcticHud"			"35 143 167 255"
 		"DarkBlue_ArcticHud"		"22 92 107 255"		
+		"Red_ArcticHud"				"255 0 0 255"
 		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
