@@ -37,8 +37,9 @@ Scheme
 		
 		//Custom Colors
 		"Purple_ArcticHud"			"65 2 81 255"
-		"LightBlue_ArcticHud"			"183 231 240 255"
-		"DarkBlue_ArcticHud"			"22 92 107 255"		
+		"LightBlue_ArcticHud"		"124 188 225 255"
+		"Blue_ArcticHud"			"35 143 167 255"
+		"DarkBlue_ArcticHud"		"22 92 107 255"		
 		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"

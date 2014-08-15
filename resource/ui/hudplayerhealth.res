@@ -30,6 +30,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
+		
 	}		
 	"PlayerStatusHealthImageBG"
 	{
@@ -74,14 +75,14 @@
 		"xpos"			"0"
 		"ypos"			"0"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"28"
+		"wide"			"30"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"ExpansivaBoldItalic12"
-		"fgcolor"		"DarkBlue_ArcticHud"
+		"fgcolor"		"Blue_ArcticHud"
 	}								
 	"PlayerStatusBleedImage"
 	{
