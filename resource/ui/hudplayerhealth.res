@@ -5,15 +5,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-200"		[$WIN32]
-		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"c50"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"xpos"			"c-100"		[$WIN32]
+		"ypos"			"c75"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"23"
+		"tall"			"110"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -24,12 +22,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
-		"xpos_minmode"	"60"
-		"ypos"			"35"
+		"xpos"			"-34"
+		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"51"
-		"tall"			"51"
+		"wide"			"90"
+		"tall"			"76.5"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -38,12 +35,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"73"
-		"xpos_minmode"	"58"
-		"ypos"			"33"
-		"zpos"			"3"
-		"wide"			"55"
-		"tall"			"55"
+		"xpos"			"-34"
+		"ypos"			"0"
+		"zpos"			"4"
+		"wide"			"90"
+		"tall"			"76.5"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
@@ -75,32 +71,29 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
-		"xpos_minmode"	"61"
-		"ypos"			"52"	[$WIN32]
-		"ypos"			"55"	[$X360]
+		"xpos"			"0"
+		"ypos"			"0"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"50"
+		"wide"			"24"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"ExpansivaBoldItalic16"
-		"fgcolor"		"TanDark"
+		"font"			"ExpansivaBoldItalic12"
+		"fgcolor"		"DarkBlue"
 	}								
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusBleedImage"
-		"xpos"			"85"
-		"xpos_minmode"	"70"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"7"
-		"wide"			"32"
-		"tall"			"32"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"

@@ -35,6 +35,11 @@ Scheme
 		//Changed black to a NTSC safe color
 		"GreenSolid"		 "76 107 34 255"
 		
+		//Custom Colors
+		"Purple"			"65 2 81 255"
+		"LightBlue"			"183 231 240 255"
+		"DarkBlue"			"22 92 107 255"		
+		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
