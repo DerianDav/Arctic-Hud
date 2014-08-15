@@ -10,7 +10,7 @@
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
-		"wide"			"23"
+		"wide"			"28"
 		"tall"			"110"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -22,10 +22,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"-34"
+		"xpos"			"-40"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"90"
+		"wide"			"110"
 		"tall"			"76.5"
 		"visible"		"1"
 		"enabled"		"1"
@@ -35,10 +35,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"-34"
+		"xpos"			"-40"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"90"
+		"wide"			"110"
 		"tall"			"76.5"
 		"visible"		"1"
 		"enabled"		"1"
@@ -74,14 +74,14 @@
 		"xpos"			"0"
 		"ypos"			"0"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"24"
+		"wide"			"28"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"ExpansivaBoldItalic12"
-		"fgcolor"		"DarkBlue"
+		"fgcolor"		"DarkBlue_ArcticHud"
 	}								
 	"PlayerStatusBleedImage"
 	{
